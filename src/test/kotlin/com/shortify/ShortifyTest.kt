@@ -15,5 +15,4 @@ class ShortifyTest {
     fun testItWorks() {
         Assertions.assertTrue(application.isRunning)
     }
-
 }
