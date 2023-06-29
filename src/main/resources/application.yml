@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: shortify
+netty:
+  default:
+    allocator:
+      max-order: 3
